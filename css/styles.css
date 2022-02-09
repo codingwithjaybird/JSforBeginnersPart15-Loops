@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  background-color: #d2691e;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+  padding: 50px 0;
+  background-color: lightgrey;
+  text-align: center;
+}
+
+h1 {
+  color: #d2691e;
+  font-size: 2rem;
+}
+
+ol {
+  width: 50%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+li {
+  color: #fff;
+  padding: 10px 0;
+  font-size: 1.4rem;
+}
+
